@@ -26,7 +26,6 @@
 #include "sol/object.hpp"
 #include "sol/function.hpp"
 #include "sol/protected_function.hpp"
-#include "sol/state.hpp"
 #include "sol/coroutine.hpp"
 #include "sol/variadic_args.hpp"
 
